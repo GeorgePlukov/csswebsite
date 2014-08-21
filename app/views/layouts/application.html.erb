@@ -1,14 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Csswebsite</title>
+  <title>McMaster Computer Science Society</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
+  <%= favicon_link_tag 'favicon.ico' %> <!-- Browser favicon -->
+  <!-- For having the layout appropriate on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 
-<%= yield %>
+	<%= render 'layouts/header' %> <!-- HEADER/NAVBAR -->
+	<%= yield %> <!-- Page content -->
+	<%= render 'layouts/footer' %> <!-- FOOTER/SITEMAP -->
 
 </body>
 </html>
