@@ -4,6 +4,9 @@
 $font-family-sans-serif:                 'OCR A Std', 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $navbar-height:                          50px;
 $brand-primary:                          #3F4BEC;
+$navbar-inverse-link-color: 			 #ffffff;
+$navbar-inverse-link-hover-color: 		 #374af1;
+
 
 @import 'bootstrap';
 
@@ -19,12 +22,17 @@ $brand-primary:                          #3F4BEC;
 	text-align: left;
 }
 
-.textbody {
+.homepage_text {
 	font: 16px 'PT Sans', sans-serif;
 }
 
-.textbody1 {
+.header_font_color {
+
+}
+
+.footer_text {
 	font: 16px 'OCR A Std';
+	color: #FFFFFF
 }
 
 .textbody2 {

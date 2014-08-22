@@ -28,9 +28,6 @@ GEM
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
     arel (5.0.1.20140414130214)
-    bcrypt (3.1.7)
-    bcrypt-ruby (3.1.5)
-      bcrypt (>= 3.1.3)
     bootstrap-sass (3.2.0.1)
       sass (~> 3.2)
     builder (3.2.2)
@@ -59,6 +56,7 @@ GEM
     minitest (5.4.0)
     multi_json (1.10.1)
     pg (0.17.1)
+    pg (0.17.1-x86-mingw32)
     polyglot (0.3.5)
     rack (1.5.2)
     rack-test (0.6.2)
@@ -86,8 +84,6 @@ GEM
     rake (10.3.2)
     rdoc (4.1.1)
       json (~> 1.4)
-    recaptcha (0.3.6)
-    rmagick (2.13.3)
     sass (3.2.19)
     sass-rails (4.0.3)
       railties (>= 4.0.0, < 5.0)
@@ -108,6 +104,7 @@ GEM
       activesupport (>= 3.0)
       sprockets (~> 2.8)
     sqlite3 (1.3.9)
+    sqlite3 (1.3.9-x86-mingw32)
     thor (0.19.1)
     thread_safe (0.3.4)
     tilt (1.4.1)
@@ -118,15 +115,17 @@ GEM
       coffee-rails
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2014.5)
+      tzinfo (>= 1.0.0)
     uglifier (2.5.3)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
-  bcrypt-ruby (~> 3.1.2)
   bootstrap-sass
   coffee-rails (~> 4.0.0)
   jbuilder (~> 2.0)
@@ -135,11 +134,10 @@ DEPENDENCIES
   pg
   rails (= 4.1.0)
   rails_12factor
-  recaptcha
-  rmagick
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
   spring
   sqlite3
   turbolinks
+  tzinfo-data
   uglifier (>= 1.3.0)
