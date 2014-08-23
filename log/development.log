@@ -6108,3 +6108,3014 @@ Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-22 15:17:57 -0
 
 
 Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-22 15:17:57 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 16:48:37 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (71.0ms)
+  Rendered layouts/_header.html.erb (21.0ms)
+  Rendered layouts/_footer.html.erb (128.0ms)
+Completed 200 OK in 1525ms (Views: 1483.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 16:48:40 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 16:48:40 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 16:48:41 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 16:48:41 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 16:48:41 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 16:48:41 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 16:48:41 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 16:48:41 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:48:41 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:48:41 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:48:41 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:48:41 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:48:41 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:48:41 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 16:48:55 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 51ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 16:48:55 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 16:48:55 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 16:48:56 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 16:48:56 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 16:48:56 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 16:48:56 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 16:48:56 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 16:48:56 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:48:56 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:48:56 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:48:56 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:48:56 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:48:56 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:48:56 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 16:48:56 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 16:49:29 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 42ms (Views: 42.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 16:49:30 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 16:49:30 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 16:49:30 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 16:49:30 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 16:49:30 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 16:49:30 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 16:49:30 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 16:49:30 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:49:30 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:49:30 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:49:30 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:49:30 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:49:30 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:49:30 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 16:49:31 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 16:49:31 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 16:49:31 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 16:50:02 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 51ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 16:50:02 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 16:50:02 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 16:50:03 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 16:50:03 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 16:50:03 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 16:50:03 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 16:50:03 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 16:50:03 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:50:03 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:50:03 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:50:03 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:50:03 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:50:03 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:50:03 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 16:50:04 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 16:50:04 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 16:50:04 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 16:50:10 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 41ms (Views: 40.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 16:50:10 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 16:50:11 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 16:50:11 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 16:50:11 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 16:50:11 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 16:50:11 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 16:50:11 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 16:50:11 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:50:11 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:50:11 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:50:11 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:50:11 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:50:11 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:50:11 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 16:50:12 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 16:56:24 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (4.0ms)
+Completed 200 OK in 55ms (Views: 54.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 16:56:24 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 16:56:24 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 16:56:24 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 16:56:24 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 16:56:24 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 16:56:24 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 16:56:24 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 16:56:24 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:56:25 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:56:25 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:56:25 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:56:25 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:56:25 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:56:25 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 16:56:25 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 16:56:26 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 35ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 16:56:26 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:56:26 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:56:26 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:56:26 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:56:26 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:56:26 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:56:26 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 16:56:26 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 16:56:27 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 50ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:56:27 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:56:28 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:56:28 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:56:28 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:56:28 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:56:28 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 16:56:29 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 41ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:56:29 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:56:29 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:56:29 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:56:29 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:56:29 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:56:29 -0400
+
+
+Started GET "/merch" for 127.0.0.1 at 2014-08-23 16:56:35 -0400
+Processing by PagesController#merch as HTML
+  Rendered pages/merch.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (13.0ms)
+Completed 200 OK in 41ms (Views: 40.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:56:35 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:56:36 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:56:36 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:56:36 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:56:36 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:56:36 -0400
+
+
+Started GET "/merch" for 127.0.0.1 at 2014-08-23 16:56:38 -0400
+Processing by PagesController#merch as HTML
+  Rendered pages/merch.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 30ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:56:38 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:56:38 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:56:38 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:56:38 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:56:38 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:56:38 -0400
+
+
+Started GET "/events" for 127.0.0.1 at 2014-08-23 16:56:40 -0400
+Processing by PagesController#events as HTML
+  Rendered pages/events.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (5.0ms)
+Completed 200 OK in 63ms (Views: 61.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:56:40 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:56:40 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:56:40 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:56:40 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:56:40 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:56:40 -0400
+
+
+Started GET "/events" for 127.0.0.1 at 2014-08-23 16:56:43 -0400
+Processing by PagesController#events as HTML
+  Rendered pages/events.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 64ms (Views: 63.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:56:43 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:56:43 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:56:43 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:56:43 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:56:43 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:56:43 -0400
+
+
+Started GET "/merch" for 127.0.0.1 at 2014-08-23 16:56:44 -0400
+Processing by PagesController#merch as HTML
+  Rendered pages/merch.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (4.0ms)
+Completed 200 OK in 52ms (Views: 51.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:56:44 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:56:45 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:56:45 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:56:45 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:56:45 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:56:45 -0400
+
+
+Started GET "/about" for 127.0.0.1 at 2014-08-23 16:56:46 -0400
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 47ms (Views: 47.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:56:46 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:56:46 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:56:46 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:56:46 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:56:46 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:56:46 -0400
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-08-23 16:56:47 -0400
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 31ms (Views: 31.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:56:47 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:56:47 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:56:47 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:56:47 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:56:47 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:56:47 -0400
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-08-23 16:56:51 -0400
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 46ms (Views: 45.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:56:51 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:56:52 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:56:52 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:56:52 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:56:52 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:56:52 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 16:56:53 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 43ms (Views: 43.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 16:56:53 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 16:56:53 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 16:56:53 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 16:56:53 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 16:56:53 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 16:56:53 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:03:43 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 49ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 17:03:43 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 17:03:43 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 17:03:43 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 17:03:43 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 17:03:43 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 17:03:43 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 17:03:43 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 17:03:43 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:03:44 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:03:44 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:03:44 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:03:44 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:03:44 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:03:44 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:03:44 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:03:44 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:03:45 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:03:46 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 52ms (Views: 51.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:03:46 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:03:46 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:03:46 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:03:46 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:03:46 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:03:46 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:03:47 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 66ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:03:47 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:03:47 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:03:47 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:03:47 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:03:47 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:03:47 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:04:06 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 51ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 17:04:06 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 17:04:06 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 17:04:07 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 17:04:07 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 17:04:07 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 17:04:07 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 17:04:07 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 17:04:07 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:04:07 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:04:07 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:04:07 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:04:07 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:04:07 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:04:07 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:04:08 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:04:08 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 55ms (Views: 55.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:04:09 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:04:09 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:04:09 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:04:09 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:04:09 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:04:09 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:04:10 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (1.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 54ms (Views: 52.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:04:10 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:04:10 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:04:10 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:04:10 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:04:10 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:04:10 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:05:14 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (38.0ms)
+Completed 500 Internal Server Error in 65ms
+
+ActionView::Template::Error (undefined local variable or method `resources_database_path' for #<#<Class:0x41fd930>:0x420b7f0>):
+    25:             <ul class="dropdown-menu" role="menu">
+    26:               <li><%= link_to "Resources Home", resources_path %></li>
+    27:               <li class="divider"></li>
+    28:               <li><%= link_to "Database", resources_database_path %></li>
+    29:               <li><%= link_to "Class List", resources_classlist_path %></li>
+    30:             </ul>
+    31:           </li>
+  app/views/layouts/_header.html.erb:28:in `_app_views_layouts__header_html_erb__82676647_34989564'
+  app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb___93575176_34767888'
+
+
+  Rendered c:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (47.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:06:17 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 67ms (Views: 67.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 17:06:17 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 17:06:17 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 17:06:18 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 17:06:18 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 17:06:18 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 17:06:18 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 17:06:18 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 17:06:18 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:06:18 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:06:18 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:06:18 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:06:18 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:06:18 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:06:18 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:06:19 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:06:19 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:06:19 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:06:19 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (1.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 53ms (Views: 52.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:06:20 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:06:20 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:06:20 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:06:20 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:06:20 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:06:20 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:06:21 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 42ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:06:21 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:06:21 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:06:21 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:06:21 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:06:21 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:06:21 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:06:22 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (21.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 54ms (Views: 53.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:06:22 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:06:22 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:06:22 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:06:22 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:06:22 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:06:22 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:07:32 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 55ms (Views: 55.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 17:07:32 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 17:07:33 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 17:07:33 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 17:07:33 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 17:07:33 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 17:07:33 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 17:07:33 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 17:07:33 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:07:33 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:07:33 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:07:33 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:07:33 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:07:33 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:07:33 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:07:34 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:07:34 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:07:34 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:07:35 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 73ms (Views: 72.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:07:35 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:07:35 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:07:35 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:07:35 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:07:35 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:07:35 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:09:50 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 42ms (Views: 42.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 17:09:50 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 17:09:50 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 17:09:50 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 17:09:50 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 17:09:50 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 17:09:50 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 17:09:50 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 17:09:50 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:09:50 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:09:50 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:09:50 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:09:50 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:09:50 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:09:50 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:09:51 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:09:51 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:09:51 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:10:12 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (1.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 50ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:10:12 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:10:12 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:10:12 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:10:12 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:10:12 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:10:12 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:10:13 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 53ms (Views: 53.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:10:14 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:10:14 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:10:14 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:10:14 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:10:14 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:10:14 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:10:57 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (6.0ms)
+Completed 500 Internal Server Error in 53ms
+
+ActionView::Template::Error (undefined local variable or method `resources_classlist_path' for #<#<Class:0x42eaa80>:0x41d53a0>):
+    26:               <li><%= link_to "Resources Home", resources_path %></li>
+    27:               <li class="divider"></li>
+    28:               <li><%= link_to "Database", resource_database_path %></li>
+    29:               <li><%= link_to "Class List", resources_classlist_path %></li>
+    30:             </ul>
+    31:           </li>
+    32: 
+  app/views/layouts/_header.html.erb:29:in `_app_views_layouts__header_html_erb__82676647_34945836'
+  app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb___93575176_34767888'
+
+
+  Rendered c:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (29.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:11:06 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 32ms (Views: 31.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 17:11:06 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 17:11:06 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 17:11:06 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 17:11:06 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 17:11:06 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 17:11:06 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 17:11:06 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 17:11:06 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:11:06 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:11:06 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:11:06 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:11:06 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:11:06 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:11:06 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:11:07 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:11:07 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:11:07 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:11:08 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 47ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:11:08 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:11:08 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:11:08 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:11:08 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:11:08 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:11:08 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:11:09 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 34ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:11:09 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:11:09 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:11:09 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:11:09 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:11:09 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:11:09 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:11:34 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 46ms (Views: 45.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 17:11:34 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 17:11:34 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 17:11:34 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 17:11:34 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 17:11:34 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 17:11:34 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 17:11:34 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 17:11:34 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:11:34 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:11:34 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:11:34 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:11:34 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:11:34 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:11:34 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:11:35 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:11:35 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 46ms (Views: 45.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:11:36 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:11:36 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:11:36 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:11:36 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:11:36 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:11:36 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:11:36 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 43ms (Views: 42.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:11:37 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:11:37 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:11:37 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:11:37 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:11:37 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:11:37 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:11:37 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 32ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:11:38 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:11:38 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:11:38 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:11:38 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:11:38 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:11:38 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:14:41 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 123ms
+
+ActionView::Template::Error (couldn't find file 'bootsrap-dropdown'
+  (in c:/Sites/csswebsite/app/assets/javascripts/application.js:14)):
+    3: <head>
+    4:   <title>McMaster Computer Science Society</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8:   <%= favicon_link_tag 'favicon.ico' %> <!-- Browser favicon -->
+    9:   <!-- For having the layout appropriate on mobile devices -->
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb___93575176_34767888'
+
+
+  Rendered c:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (17.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:14:57 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 65ms
+
+ActionView::Template::Error (couldn't find file 'bootstrap-dropdown'
+  (in c:/Sites/csswebsite/app/assets/javascripts/application.js:14)):
+    3: <head>
+    4:   <title>McMaster Computer Science Society</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8:   <%= favicon_link_tag 'favicon.ico' %> <!-- Browser favicon -->
+    9:   <!-- For having the layout appropriate on mobile devices -->
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb___93575176_34767888'
+
+
+  Rendered c:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (17.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:15:07 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 153ms (Views: 153.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 17:15:08 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 17:15:08 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 17:15:08 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-23 17:15:08 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 17:15:08 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 17:15:08 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 17:15:08 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 17:15:08 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 17:15:08 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:15:08 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:15:08 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:15:09 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:15:09 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:15:09 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:15:09 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:15:09 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:15:09 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:15:09 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:15:10 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (16.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 54ms (Views: 53.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:15:10 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:15:10 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:15:10 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:15:10 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:15:10 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:15:11 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:15:11 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 51ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:15:11 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:15:11 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:15:11 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:15:11 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:15:11 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:15:12 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:16:08 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 82ms (Views: 82.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 17:16:08 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 17:16:08 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 17:16:08 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 17:16:08 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 17:16:08 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-23 17:16:08 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 17:16:08 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 17:16:08 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 17:16:09 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:16:09 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:16:09 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:16:09 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:16:09 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:16:09 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:16:09 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:16:10 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:16:10 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:16:10 -0400
+
+
+Started GET "/resources" for 127.0.0.1 at 2014-08-23 17:16:38 -0400
+Processing by PagesController#resources as HTML
+  Rendered pages/resources.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 50ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:16:38 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:16:38 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:16:38 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:16:38 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:16:38 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:16:38 -0400
+
+
+Started GET "/resource/database" for 127.0.0.1 at 2014-08-23 17:16:40 -0400
+Processing by PagesController#resource/database as HTML
+  Rendered pages/resource/database.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 48ms (Views: 47.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:16:40 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:16:40 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:16:40 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:16:40 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:16:40 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:16:40 -0400
+
+
+Started GET "/resource/classlist" for 127.0.0.1 at 2014-08-23 17:16:42 -0400
+Processing by PagesController#resource/classlist as HTML
+  Rendered pages/resource/classlist.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 42ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:16:42 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:16:42 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:16:42 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:16:42 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:16:42 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:16:42 -0400
+
+
+Started GET "/merch" for 127.0.0.1 at 2014-08-23 17:16:43 -0400
+Processing by PagesController#merch as HTML
+  Rendered pages/merch.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (14.0ms)
+Completed 200 OK in 50ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:16:43 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:16:43 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:16:43 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:16:43 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:16:43 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:16:43 -0400
+
+
+Started GET "/events" for 127.0.0.1 at 2014-08-23 17:16:44 -0400
+Processing by PagesController#events as HTML
+  Rendered pages/events.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 43ms (Views: 42.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:16:44 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:16:44 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:16:45 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:16:45 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:16:45 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:16:45 -0400
+
+
+Started GET "/about" for 127.0.0.1 at 2014-08-23 17:16:46 -0400
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (4.0ms)
+Completed 200 OK in 60ms (Views: 59.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:16:46 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:16:46 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:16:47 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:16:47 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:16:47 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:16:47 -0400
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-08-23 17:16:47 -0400
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 47ms (Views: 47.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:16:47 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:16:47 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:16:48 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:16:48 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:16:48 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:16:48 -0400
+
+
+Started GET "/merch" for 127.0.0.1 at 2014-08-23 17:16:48 -0400
+Processing by PagesController#merch as HTML
+  Rendered pages/merch.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 44ms (Views: 44.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:16:49 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:16:49 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:16:49 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:16:49 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:16:49 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:16:49 -0400
+
+
+Started GET "/merch" for 127.0.0.1 at 2014-08-23 17:17:21 -0400
+Processing by PagesController#merch as HTML
+  Rendered pages/merch.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 58ms (Views: 57.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 17:17:21 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 17:17:21 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 17:17:22 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 17:17:22 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 17:17:22 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-23 17:17:22 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 17:17:22 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 17:17:22 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 17:17:22 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:17:22 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:17:22 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:17:22 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:17:22 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:17:22 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:17:22 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:17:23 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:17:23 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (15.0ms)
+Completed 200 OK in 46ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:17:23 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:17:23 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:17:23 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:17:23 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:17:23 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:17:23 -0400
+
+
+Started GET "/resources" for 127.0.0.1 at 2014-08-23 17:17:25 -0400
+Processing by PagesController#resources as HTML
+  Rendered pages/resources.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 36ms (Views: 36.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:17:25 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:17:25 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:17:26 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:17:26 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:17:26 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:17:26 -0400
+
+
+Started GET "/merch" for 127.0.0.1 at 2014-08-23 17:17:26 -0400
+Processing by PagesController#merch as HTML
+  Rendered pages/merch.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 43ms (Views: 43.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:17:26 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:17:26 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:17:26 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:17:26 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:17:27 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:17:27 -0400
+
+
+Started GET "/merch" for 127.0.0.1 at 2014-08-23 17:19:18 -0400
+Processing by PagesController#merch as HTML
+  Rendered pages/merch.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 54ms (Views: 54.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 17:19:18 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 17:19:18 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 17:19:19 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 17:19:19 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 17:19:19 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-23 17:19:19 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 17:19:19 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 17:19:19 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 17:19:19 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:19:19 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:19:19 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:19:19 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:19:19 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:19:19 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:19:19 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:19:20 -0400
+
+
+Started GET "/merch" for 127.0.0.1 at 2014-08-23 17:19:21 -0400
+Processing by PagesController#merch as HTML
+  Rendered pages/merch.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 47ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:19:21 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:19:21 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:19:21 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:19:21 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:19:21 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:19:21 -0400
+
+
+Started GET "/events" for 127.0.0.1 at 2014-08-23 17:19:22 -0400
+Processing by PagesController#events as HTML
+  Rendered pages/events.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 40ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:19:22 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:19:22 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:19:22 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:19:22 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:19:22 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:19:22 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:19:23 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 40ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:19:23 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:19:24 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:19:24 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:19:24 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:19:24 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:19:24 -0400
+
+
+Started GET "/events" for 127.0.0.1 at 2014-08-23 17:19:24 -0400
+Processing by PagesController#events as HTML
+  Rendered pages/events.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 50ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:19:25 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:19:25 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:19:25 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:19:25 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:19:25 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:19:25 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:19:26 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (4.0ms)
+Completed 200 OK in 69ms (Views: 68.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:19:26 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:19:26 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:19:26 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:19:26 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:19:26 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:19:26 -0400
+
+
+Started GET "/events" for 127.0.0.1 at 2014-08-23 17:20:28 -0400
+Processing by PagesController#events as HTML
+  Rendered pages/events.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (4.0ms)
+Completed 200 OK in 50ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:20:28 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:20:29 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:20:29 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:20:29 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:20:29 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:20:29 -0400
+
+
+Started GET "/merch" for 127.0.0.1 at 2014-08-23 17:20:30 -0400
+Processing by PagesController#merch as HTML
+  Rendered pages/merch.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 57ms (Views: 57.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:20:30 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:20:30 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:20:30 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:20:30 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:20:30 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:20:30 -0400
+
+
+Started GET "/merch" for 127.0.0.1 at 2014-08-23 17:23:15 -0400
+Processing by PagesController#merch as HTML
+  Rendered pages/merch.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 45ms (Views: 45.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 17:23:16 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 17:23:16 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 17:23:16 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 17:23:16 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 17:23:16 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-23 17:23:16 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 17:23:16 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 17:23:16 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 17:23:16 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:23:16 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:23:16 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:23:16 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:23:16 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:23:16 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:23:16 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:23:17 -0400
+
+
+Started GET "/resources" for 127.0.0.1 at 2014-08-23 17:23:17 -0400
+Processing by PagesController#resources as HTML
+  Rendered pages/resources.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 44ms (Views: 44.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:23:17 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:23:18 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:23:18 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:23:18 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:23:18 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:23:18 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:23:38 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 49ms (Views: 48.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:23:38 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:23:38 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:23:38 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:23:38 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:23:38 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:23:38 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:24:05 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 49ms (Views: 48.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 17:24:05 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 17:24:05 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 17:24:05 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 17:24:05 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 17:24:05 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-23 17:24:05 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 17:24:05 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 17:24:06 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 17:24:06 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:24:06 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:24:06 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:24:06 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:24:06 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:24:06 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:24:06 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:24:06 -0400
+
+
+Started GET "/resources" for 127.0.0.1 at 2014-08-23 17:24:07 -0400
+Processing by PagesController#resources as HTML
+  Rendered pages/resources.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 43ms (Views: 43.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:24:07 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:24:07 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:24:07 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:24:07 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:24:07 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:24:07 -0400
+
+
+Started GET "/events" for 127.0.0.1 at 2014-08-23 17:24:10 -0400
+Processing by PagesController#events as HTML
+  Rendered pages/events.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 40ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:24:11 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:24:11 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:24:11 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:24:11 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:24:11 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:24:11 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:24:12 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 48ms (Views: 48.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:24:13 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:24:13 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:24:13 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:24:13 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:24:13 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:24:13 -0400
+
+
+Started GET "/resources" for 127.0.0.1 at 2014-08-23 17:43:46 -0400
+Processing by PagesController#resources as HTML
+  Rendered pages/resources.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 48ms (Views: 47.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:43:46 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:43:46 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:43:46 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:43:46 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:43:46 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:43:47 -0400
+
+
+Started GET "/resources" for 127.0.0.1 at 2014-08-23 17:45:01 -0400
+Processing by PagesController#resources as HTML
+  Rendered pages/resources.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 51ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 17:45:02 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 17:45:02 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 17:45:02 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 17:45:02 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 17:45:02 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-23 17:45:02 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 17:45:02 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 17:45:02 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 17:45:02 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:45:02 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:45:03 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:45:03 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:45:03 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:45:03 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:45:03 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:45:03 -0400
+
+
+Started GET "/events" for 127.0.0.1 at 2014-08-23 17:45:03 -0400
+Processing by PagesController#events as HTML
+  Rendered pages/events.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 33ms (Views: 33.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:45:03 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:45:04 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:45:04 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:45:04 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:45:04 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:45:04 -0400
+
+
+Started GET "/merch" for 127.0.0.1 at 2014-08-23 17:45:04 -0400
+Processing by PagesController#merch as HTML
+  Rendered pages/merch.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 62ms (Views: 61.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:45:04 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:45:05 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:45:05 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:45:05 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:45:05 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:45:05 -0400
+
+
+Started GET "/resources" for 127.0.0.1 at 2014-08-23 17:45:06 -0400
+Processing by PagesController#resources as HTML
+  Rendered pages/resources.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (4.0ms)
+Completed 200 OK in 63ms (Views: 62.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:45:07 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:45:07 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:45:07 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:45:07 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:45:07 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:45:07 -0400
+
+
+Started GET "/resources/database" for 127.0.0.1 at 2014-08-23 17:45:08 -0400
+Processing by PagesController#resources/database as HTML
+  Rendered pages/resources/database.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 32ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:45:08 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:45:08 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:45:08 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:45:08 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:45:08 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:45:08 -0400
+
+
+Started GET "/resources/classlist" for 127.0.0.1 at 2014-08-23 17:45:10 -0400
+Processing by PagesController#resources/classlist as HTML
+  Rendered pages/resources/classlist.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 50ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:45:10 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:45:10 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:45:10 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:45:10 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:45:10 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:45:10 -0400
+
+
+Started GET "/about" for 127.0.0.1 at 2014-08-23 17:45:12 -0400
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 49ms (Views: 48.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:45:12 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:45:12 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:45:12 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:45:12 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:45:12 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:45:12 -0400
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-08-23 17:45:13 -0400
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (14.0ms)
+Completed 200 OK in 54ms (Views: 53.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:45:13 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:45:13 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:45:13 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:45:13 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:45:13 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:45:13 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:45:14 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 39ms (Views: 38.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:45:15 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:45:15 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:45:15 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:45:15 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:45:15 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:45:15 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:45:17 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 42ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:45:17 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:45:17 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:45:17 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:45:17 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:45:17 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:45:17 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-23 17:47:51 -0400
+Processing by PagesController#home as HTML
+  Rendered layouts/_homecarousel.html.erb (0.0ms)
+  Rendered pages/home.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (14.0ms)
+Completed 200 OK in 50ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_customization.css?body=1" for 127.0.0.1 at 2014-08-23 17:47:52 -0400
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-08-23 17:47:52 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-23 17:47:52 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-23 17:47:52 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-23 17:47:52 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-23 17:47:52 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-23 17:47:52 -0400
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-08-23 17:47:52 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-23 17:47:52 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:47:52 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:47:52 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:47:52 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:47:52 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:47:52 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:47:53 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:47:53 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:47:53 -0400
+
+
+Started GET "/assets/favicon.ico" for 127.0.0.1 at 2014-08-23 17:47:53 -0400
+
+
+Started GET "/resources" for 127.0.0.1 at 2014-08-23 17:47:54 -0400
+Processing by PagesController#resources as HTML
+  Rendered pages/resources.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 58ms (Views: 57.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:47:54 -0400
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:47:55 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:47:55 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:47:55 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:47:55 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:47:55 -0400
+
+
+Started GET "/events" for 127.0.0.1 at 2014-08-23 17:47:55 -0400
+Processing by PagesController#events as HTML
+  Rendered pages/events.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 39ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/events" for 127.0.0.1 at 2014-08-23 17:47:56 -0400
+Processing by PagesController#events as HTML
+  Rendered pages/events.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (14.0ms)
+Completed 200 OK in 53ms (Views: 52.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/social/facebook.png" for 127.0.0.1 at 2014-08-23 17:47:56 -0400
+
+
+Started GET "/assets/social/twitter.png" for 127.0.0.1 at 2014-08-23 17:47:56 -0400
+
+
+Started GET "/assets/logo/logo-sansbg2.png" for 127.0.0.1 at 2014-08-23 17:47:56 -0400
+
+
+Started GET "/assets/social/github.png" for 127.0.0.1 at 2014-08-23 17:47:56 -0400
+
+
+Started GET "/assets/social/email.png" for 127.0.0.1 at 2014-08-23 17:47:56 -0400
+
+
+Started GET "/assets/logo/logo-sansbg.png" for 127.0.0.1 at 2014-08-23 17:47:56 -0400
