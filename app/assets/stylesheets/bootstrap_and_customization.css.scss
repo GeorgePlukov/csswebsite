@@ -10,6 +10,7 @@ $navbar-inverse-link-hover-color: 		 #374af1;
 
 @import 'bootstrap';
 
+/* Aligning */
 .center {
     text-align: center;
 }
@@ -26,13 +27,23 @@ $navbar-inverse-link-hover-color: 		 #374af1;
 	vertical-align: bottom;
 }
 
-.homepage_text {
-	font: 16px 'PT Sans', sans-serif;
-}
-
+/* Text */
 .footer_text {
 	font: 16px 'OCR A Std';
 	color: #FFFFFF
+}
+
+.footer_text2 {
+	font: 12px 'OCR A Std';
+	color: #FFFFFF
+}
+
+.textbody {
+	font: 18px 'PT Sans', sans-serif;
+}
+
+.textbody1 {
+	font: 16px 'PT Sans', sans-serif;
 }
 
 .textbody2 {
@@ -57,6 +68,52 @@ $navbar-inverse-link-hover-color: 		 #374af1;
 
 .panelheading {
 	font: 20px 'PT Sans', sans-serif;
+}
+
+.body {
+	padding-left: 30px;
+}
+
+.panel-default > .panel-heading {
+  background-color: #3F4BEC;
+  color: #b4b4b4;
+}
+
+/* VERTICAL LINES */
+.vr {
+  margin-left: 0px;
+  margin-right: 0px;
+  height: 100px;
+  border: 0;
+  border-left: 1px solid #cccccc;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.vr-twitter {
+  margin-left: 0px;
+  margin-right: 0px;
+  height: 55px;
+  border: 0;
+  border-left: 1px solid #cccccc;
+}
+
+.vr-em {
+	margin-left: 0px;
+  margin-right: 0px;
+  height: 55px;
+  border: 0;
+  border-left: 1px solid #cccccc;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.vr-github {
+	margin-left: 0px;
+	margin-right: 0px;
+	height: 80px;
+	border: 0;
+	border-left: 1px solid #cccccc;
 }
 
 .jumbotron {
@@ -120,4 +177,8 @@ $navbar-inverse-link-hover-color: 		 #374af1;
 
 .spacer30 {
 	height: 30px;
+}
+
+.spacer35 {
+	height: 35px;
 }

@@ -6,6 +6,7 @@ Rails.application.routes.draw do
   get 'contact' => 'pages#contact'
   get 'events' => 'pages#events'
   get 'merch' => 'pages#merch'
+  get 'sitemap' => 'pages#sitemap'
 
   # RESOURCES
   get 'resources' => 'pages#resources'

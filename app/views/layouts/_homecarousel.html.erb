@@ -1,0 +1,65 @@
+<div class="carousel slide" data-ride="carousel" id="myCarousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-pause="hover" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-pause="hover" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-pause="hover" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-pause="hover" data-slide-to-"3"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <!-- FIRST IMAGE -->
+    <div class="item active">
+      <div class="center">
+        <div class="product-img2">
+          <%= image_tag("") %>
+        </div>
+        <div class="carousel-caption">
+          <h3>Meet Your Exec Team!</h3>
+          <p>Get to know your CSS Exec team and what their roles are within<br>the society by clicking the button below!</p>
+          <%= link_to about_path do %>
+            <button type="button" class="btn btn-default">Read More</button>
+          <% end %>
+        </div> <!-- end centering -->
+      </div> <!-- end slide 1 caption -->
+    </div> <!-- end item -->
+
+    <!-- SECOND IMAGE -->
+    <div class="item">
+      <div class="center">
+        <div class="product-img2">
+          <%= image_tag("") %>
+        </div>
+        <div class="carousel-caption">
+          <h3>Sheet Metal Fabrication</h3>
+          <p>Our fully stocked and operational sheet metal fabrication shop<br>will manufacture your HVAC fitting needs.</p>
+          <!--<%= link_to "#" do %>
+            <button type="button" class="btn btn-default">Place Order</button>
+          <% end %> -->
+        </div> <!-- end centering -->
+      </div> <!-- end slide 1 caption -->
+    </div> <!-- end item -->
+
+    <!-- THIRD IMAGE -->
+    <div class="item">
+      <div class="center">
+        <div class="product-img">
+          <%= image_tag("") %>
+        </div>
+        <div class="carousel-caption">
+          <h3>Equipment For Sale</h3>
+          <p>From HVAC equipment to office supplies, T&H periodically has a variety of things for sale.<br>Please click the button below for a list of everything we have for sale.</p>
+        </div>
+      </div>
+    </div>
+  </div> <!-- end carousel slides -->
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
